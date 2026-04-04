@@ -1,5 +1,5 @@
 ---
-title: "Tuần 9: Tích hợp RAG & Chatbot AI"
+title: "Tuần 9: Native AWS & Front-end"
 date: 2025-02-26
 weight: 9
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 02/03 | Nghiên cứu quy trình RAG cho trí tuệ nhân tạo dùng Pydantic AI. |
-| 3 | 03/03 | Kết nối dữ liệu S3 vào Vector Database phục vụ truy xuất thông tin. |
-| 4 | 04/03 | Tích hợp hệ thống Multi-agent để Chatbot có tính chuyên môn cao. |
-| 5 | 05/03 | Xây dựng giao diện Chatbot bằng Next.js, hỗ trợ định dạng Markdown. |
-| 6 | 06/03 | Tối ưu hóa Prompt Engineering để nâng cao chất lượng phản hồi. |
-| 7 | 07/03 | Kiểm thử tính năng Chatbot trên cả giao diện Web và Mobile. |
-| CN | 08/03 | Đánh giá hiệu quả Chatbot cùng đội ngũ phát triển AI. |
+| 2 | 02/03 | Thay Cloudflare bằng Route53 để tăng tính native AWS. |
+| 3 | 03/03 | Tìm hiểu AWS Amplify và quy trình hosting Front-end. |
+| 4 | 04/03 | Triển khai hosting Front-end trên Amplify. |
+| 5 | 05/03 | Thay JWT thủ công bằng Cognito cho auth. |
+| 6 | 06/03 | Tích hợp user pool và user group trong Cognito. |
+| 7 | 07/03 | Viết workshop hướng dẫn cấu hình và triển khai. |
+| CN | 08/03 | Tổng kết tuần, cập nhật tài liệu hướng dẫn. |
 
 ### Kết quả đạt được tuần 9:
 * Chatbot đã có khả năng trả lời các câu hỏi dựa trên nội dung bài giảng.

@@ -1,5 +1,5 @@
 ---
-title: "Tuần 10: Giám sát & Tối ưu"
+title: "Tuần 10: Hoàn thiện kiến trúc"
 date: 2025-03-05
 weight: 10
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 1.10. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 09/03 | Cấu hình AWS CloudWatch giám sát log từ FastAPI và Next.js. |
-| 3 | 10/03 | Debug và tối ưu hóa thời gian phản hồi của các AI Agent. |
-| 4 | 11/03 | Thiết lập quy trình sao lưu (Backup) tự động cho MongoDB Atlas. |
-| 5 | 12/03 | Kiểm tra bảo mật S3 Bucket, đảm bảo chỉ truy cập qua Presigned URL. |
-| 6 | 13/03 | Thực hiện Stress Test giả lập nhiều học sinh cùng thi một lúc. |
-| 7 | 14/03 | Hoàn thiện tài liệu hướng dẫn vận hành và quản trị hệ thống. |
-| CN | 15/03 | Kiểm tra tính ổn định của Docker containers trên môi trường AWS. |
+| 2 | 09/03 | Hoàn thiện kiến trúc CI/CD tổng thể cho dự án. |
+| 3 | 10/03 | Hoàn thiện AWS architect của dự án. |
+| 4 | 11/03 | Tối ưu luồng xử lí từ client đến server. |
+| 5 | 12/03 | Rà soát pipeline deploy và rollback. |
+| 6 | 13/03 | Hoàn thiện nội dung workshop. |
+| 7 | 14/03 | Review tài liệu và sơ đồ kiến trúc. |
+| CN | 15/03 | Tổng kết tuần, chuẩn bị tối ưu chi phí. |
 
 ### Kết quả đạt được tuần 10:
 * Hệ thống được giám sát chặt chẽ, sẵn sàng ứng phó với các sự cố kỹ thuật.

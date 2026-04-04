@@ -1,5 +1,5 @@
 ---
-title: "Tuần 1: Thiết lập & Đề tài"
+title: "Tuần 1: Lần đầu lên \"mây\" với FCAJ Bootcamp"
 date: 2025-01-01
 weight: 1
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 1.1. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 05/01 | Làm quen và kết nối với các thành viên trong nhóm 5 người. |
-| 3 | 06/01 | Thảo luận và thống nhất tên đề tài: "EduTrust - Nền tảng giám sát thi trực tuyến". |
-| 4 | 07/01 | Thiết lập cấu trúc Git monorepo và quy trình làm việc nhóm. |
-| 5 | 08/01 | Làm quen với Jira, phân chia vai trò cho các thành viên. |
-| 6 | 09/01 | Đăng ký tài khoản AWS, cấu hình bảo mật MFA cho tài khoản Root. |
-| 7 | 10/01 | Tìm hiểu khái quát về các mô hình IaaS, PaaS cho phát triển Fullstack. |
-| CN | 11/01 | Tổng kết tuần và chuẩn bị nghiên cứu database. |
+| 2 | 05/01 | Kick-off FCAJ Bootcamp, giới thiệu lộ trình và mục tiêu. |
+| 3 | 06/01 | Lập team, phân vai trò và quy tắc phối hợp. |
+| 4 | 07/01 | Setup worklog, chuẩn hóa cách ghi chép và báo cáo. |
+| 5 | 08/01 | Tạo IAM user, group và cấu hình quyền cơ bản. |
+| 6 | 09/01 | Tạo IAM role và policy cho user/service. |
+| 7 | 10/01 | Kiểm tra lại phân quyền và best practices bảo mật. |
+| CN | 11/01 | Tổng kết tuần, ghi nhận vấn đề và kế hoạch tuần 2. |
 
 ### Kết quả đạt được tuần 1:
 * Thống nhất đề tài và có kế hoạch sơ bộ cho đồ án.
