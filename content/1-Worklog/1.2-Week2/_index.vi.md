@@ -1,5 +1,5 @@
 ---
-title: "Tuần 2: Chinh phục AWS Core"
+title: "Tuần 2: Tìm hiểu mạng & kết nối"
 date: 2025-01-08
 weight: 2
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 1.2. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 12/01 | Hoàn tất đăng ký AWS Free Tier, tạo IAM User và Access Key. |
-| 3 | 13/01 | Cài đặt AWS CLI và kiểm tra kết nối với lệnh `aws configure`. |
-| 4 | 14/01 | Khởi tạo EC2 Instance (Ubuntu), cấu hình Security Group cơ bản. |
-| 5 | 15/01 | Thử nghiệm SSH vào server và cài đặt môi trường Python cơ bản. |
-| 6 | 16/01 | Tạo S3 Bucket, thử nghiệm upload/download ảnh minh chứng vi phạm. |
-| 7 | 17/01 | Tìm hiểu về Elastic IP và các quy tắc bảo mật mạng trong VPC. |
-| CN | 18/01 | Brainstorming ý tưởng về giao diện người dùng cho EduTrust. |
+| 2 | 12/01 | Tìm hiểu tổng quan VPC: subnet, route table, NACL, security group. |
+| 3 | 13/01 | Khởi tạo EC2 và nắm các hình thức kết nối cơ bản. |
+| 4 | 14/01 | Làm quen Session Manager và SSM connection. |
+| 5 | 15/01 | Thử nghiệm SSH và so sánh với SSM về bảo mật. |
+| 6 | 16/01 | Tìm hiểu VPC peering và mô hình kết nối hybrid. |
+| 7 | 17/01 | Khảo sát VPC endpoint và các use-case phổ biến. |
+| CN | 18/01 | Tổng kết kiến thức mạng và ghi chú best practices. |
 
 ### Kết quả đạt được tuần 2:
 * Làm chủ các thao tác quản trị cơ bản trên AWS qua Console và CLI.

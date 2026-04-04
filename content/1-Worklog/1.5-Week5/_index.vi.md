@@ -1,5 +1,5 @@
 ---
-title: "Tuần 5: Nghiên cứu AI & Camera"
+title: "Tuần 5: Giám sát & Bảo mật"
 date: 2025-01-29
 weight: 5
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 1.5. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 02/02 | Tìm hiểu mô hình YOLOv8/v10 cho bài toán phát hiện gian lận. |
-| 3 | 03/02 | Thiết lập Agentic Workflow cho chatbot bằng Pydantic AI. |
-| 4 | 04/03 | Thử nghiệm nhận diện nhiều khuôn mặt trong một khung hình camera. |
-| 5 | 05/02 | Thiết kế luồng logic: Phát hiện vi phạm -> Chụp ảnh bằng chứng -> Lưu S3. |
-| 6 | 06/02 | Nghiên cứu cách truyền phát video (streaming) từ Client lên Backend. |
-| 7 | 07/02 | Tối ưu hóa prompt cho AI Agent để phân loại câu hỏi của học sinh. |
-| CN | 08/02 | Đánh giá độ trễ của hệ thống AI khi xử lý thời gian thực. |
+| 2 | 02/02 | Bật và cấu hình AWS CloudTrail cho auditing. |
+| 3 | 03/02 | Thiết lập CloudWatch log/metrics và alarm cơ bản. |
+| 4 | 04/03 | Kết nối Grafana để trực quan hóa log/metrics. |
+| 5 | 05/02 | Xây dựng dashboard giám sát theo service. |
+| 6 | 06/02 | Tìm hiểu và cấu hình WAF bảo vệ lớp ứng dụng. |
+| 7 | 07/02 | Kiểm thử rule WAF và cảnh báo bất thường. |
+| CN | 08/02 | Tổng kết tuần, chuẩn hóa quy trình monitoring. |
 
 ### Kết quả đạt được tuần 5:
 * Xác định được mô hình YOLO phù hợp cho việc giám sát thi.

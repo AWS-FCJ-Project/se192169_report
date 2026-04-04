@@ -1,5 +1,5 @@
 ---
-title: "Tuần 12: Kiểm thử & Nộp bài"
+title: "Tuần 12: Thuyết trình"
 date: 2025-03-19
 weight: 12
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 1.12. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 23/03 | Chạy E2E Testing toàn bộ hệ thống phát hiện lỗi muộn. |
-| 3 | 24/03 | Tối ưu hóa UI và tốc độ phản hồi của AI Chatbot. |
-| 4 | 25/03 | Kiểm tra tính nhất quán dữ liệu trên MongoDB và tối ưu Backend. |
-| 5 | 26/03 | Audit phân quyền hệ thống lần cuối và khảo sát người dùng thử. |
-| 6 | 27/03 | Đóng gói bản Demo EduTrust và hoàn thiện hồ sơ nộp bài. |
-| 7 | 28/03 | Chính thức nộp báo cáo đồ án thành công. |
-| CN | 29/03 | Tổng kết và dọn dẹp các tài nguyên Cloud không cần thiết. |
+| 2 | 23/03 | Làm slide thuyết trình cho demo cuối kỳ. |
+| 3 | 24/03 | Test lại mọi tính năng của project. |
+| 4 | 25/03 | Sửa lỗi cuối cùng và tinh chỉnh demo. |
+| 5 | 26/03 | Rehearsal thuyết trình và phân công nội dung. |
+| 6 | 27/03 | Chuẩn bị môi trường trình chiếu và dữ liệu demo. |
+| 7 | 28/03 | Thuyết trình kết thúc bootcamp FCAJ. |
+| CN | 29/03 | Tổng kết tuần và rút kinh nghiệm. |
 
 ### Kết quả đạt được tuần 12:
 * Hệ thống vận hành mượt mà, không còn lỗi nghiêm trọng.

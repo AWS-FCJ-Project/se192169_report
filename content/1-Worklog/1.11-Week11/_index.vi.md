@@ -1,5 +1,5 @@
 ---
-title: "Tuần 11: Tổng kết & Báo cáo"
+title: "Tuần 11: Tối ưu & Pentest"
 date: 2025-03-12
 weight: 11
 chapter: false
@@ -17,12 +17,12 @@ pre: " <b> 1.11. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Ngày | Công việc |
 | --- | --- | --- |
-| 2 | 16/03 | Tập hợp các minh chứng kỹ thuật và soạn thảo báo cáo đồ án. |
-| 3-4 | 17-18/03 | Chỉnh sửa nội dung, sơ đồ kiến trúc và mã nguồn trong báo cáo. |
-| 5 | 19/03 | Rà soát Nhật ký công việc (Worklog) đảm bảo tính chuyên nghiệp. |
-| 6 | 20/03 | Đóng gói mã nguồn EduTrust và chuẩn bị hướng dẫn cài đặt Docker. |
-| 7 | 21/03 | Soạn thảo slide thuyết trình tổng kết tiến độ và kết quả. |
-| CN | 22/03 | Kiểm tra tổng thể tệp báo cáo lần cuối trước khi nộp thử. |
+| 2 | 16/03 | Tối ưu chi phí các dịch vụ đang sử dụng. |
+| 3-4 | 17-18/03 | Rà soát cấu hình, cắt giảm tài nguyên dư thừa. |
+| 5 | 19/03 | Cải thiện report theo nhận xét. |
+| 6 | 20/03 | Lên kế hoạch pentest ứng dụng. |
+| 7 | 21/03 | Thực hiện pentest và ghi nhận kết quả. |
+| CN | 22/03 | Tổng kết tuần, cập nhật checklist bảo mật. |
 
 ### Kết quả đạt được tuần 11:
 * Hoàn thiện bản thảo báo cáo đồ án với đầy đủ các nội dung chuyên môn.
