@@ -1,5 +1,5 @@
 ---
-title: "Tuần 3: Backup & Chi phí"
+title: "Tuần 3: S3, Identity & Monitoring"
 date: 2025-01-15
 weight: 3
 chapter: false
@@ -15,15 +15,15 @@ pre: " <b> 1.3. </b> "
 * Hoàn thiện tài liệu SRS (Software Requirements Specification).
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 19/01 | Tạo backup plan cho dữ liệu và cấu hình lịch sao lưu. |
-| 3 | 20/01 | Thiết lập AWS Budget và cảnh báo chi phí. |
-| 4 | 21/01 | Cài đặt và cấu hình AWS CLI phục vụ quản trị. |
-| 5 | 22/01 | Tìm hiểu cấu trúc chi phí AWS và cách tính bill. |
-| 6 | 23/01 | Tổng hợp các kỹ thuật tối ưu chi phí (rightsizing, scheduling). |
-| 7 | 24/01 | Thử nghiệm áp dụng cost optimization trên môi trường demo. |
-| CN | 25/01 | Tổng kết chi phí, cập nhật checklist theo dõi hằng tuần. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Tạo LinkedIn, tìm hiểu về S3 - S3 Glacier và các hình thức lưu trữ đảm bảo tối ưu chi phí | 19/01 | 19/01 | - |
+| Thứ ba | File sharing và phân quyền truy cập S3 | 20/01 | 20/01 | - |
+| Thứ tư | AWS Cognito cho xác thực, SSO (AWS Identity Center), AWS Organization | 21/01 | 21/01 | - |
+| Thứ năm | ElastiCache Redis và RDS | 22/01 | 22/01 | - |
+| Thứ sáu | AWS Cloudwatch và trực quan hóa log bằng Cloudwatch Alarm, AWS Grafana | 23/01 | 23/01 | - |
+| Thứ bảy | Setup EC2 private subnet, dùng NATGW để kết nối Internet, pull container từ Docker về<br>Cài đặt Cloudwatch Agent vào EC2 để giám sát docker log | 24/01 | 24/01 | - |
+| Chủ Nhật | Test thử tạo hạ tầng bằng Terraform qua các lệnh CLI | 25/01 | 25/01 | - |
 
 ### Kết quả đạt được tuần 3:
 * Hoàn thiện khung kiến trúc EduTrust hướng tới khả năng mở rộng trên AWS.

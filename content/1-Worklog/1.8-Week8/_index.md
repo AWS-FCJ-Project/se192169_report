@@ -1,6 +1,6 @@
 ---
-title: "Week 8: Data & Reporting"
-date: 2025-02-19
+title: "Week 8: Packer & Backend Infrastructure"
+date: 2025-03-02
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.8. </b> "
 * Optimize data retrieval performance from MongoDB.
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 23/02 | Developed teacher's view for the student examinee list. |
-| Tue | 24/02 | Programmed logic to export exam results to Excel/CSV formats. |
-| Wed | 25/02 | Integrated Amazon SES for automated result email delivery. |
-| Thu | 26/02 | Set up Redis to cache search results and class lists. |
-| Fri | 27/02 | Fixed encoding issues when exporting reports from MongoDB. |
-| Sat | 28/02 | Verified live email delivery using the Amazon SES account. |
-| Sun | 01/03 | Source code review for the reporting module with the Backend team. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | Apply Packer to build AMI snapshots for the project | 02/03 | 02/03 | - |
+| Tuesday | Learn user data to sync versions and packages<br>- Deploy endpoints for S3, SSM, ECR,... | 03/03 | 03/03 | - |
+| Wednesday | Redesign CI/CD to provision network and backend infrastructure | 04/03 | 04/03 | - |
+| Thursday | Add CloudWatch monitoring for the project | 05/03 | 05/03 | - |
+| Friday | Apply user data and optimize packages to speed up CD | 06/03 | 06/03 | - |
+| Saturday | Learn and use Route53 to replace Cloudflare resolve DNS | 07/03 | 07/03 | - |
+| Sunday | Standardize and fix backend infrastructure, choose AMI checkpoints and suitable instance configuration | 08/03 | 08/03 | - |
 
 ### Week 8 Achievements:
 * System capability for professional data management and reports.

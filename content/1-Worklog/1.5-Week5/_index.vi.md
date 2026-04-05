@@ -1,5 +1,5 @@
 ---
-title: "Tuần 5: Giám sát & Bảo mật"
+title: "Tuần 5: ECR, Monitoring & WAF"
 date: 2025-01-29
 weight: 5
 chapter: false
@@ -15,15 +15,15 @@ pre: " <b> 1.5. </b> "
 * Thực hiện thử nghiệm nhận diện vật thể cơ bản (điện thoại, khuôn mặt).
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 02/02 | Bật và cấu hình AWS CloudTrail cho auditing. |
-| 3 | 03/02 | Thiết lập CloudWatch log/metrics và alarm cơ bản. |
-| 4 | 04/03 | Kết nối Grafana để trực quan hóa log/metrics. |
-| 5 | 05/02 | Xây dựng dashboard giám sát theo service. |
-| 6 | 06/02 | Tìm hiểu và cấu hình WAF bảo vệ lớp ứng dụng. |
-| 7 | 07/02 | Kiểm thử rule WAF và cảnh báo bất thường. |
-| CN | 08/02 | Tổng kết tuần, chuẩn hóa quy trình monitoring. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Ứng dụng ECR trong việc tạo repo và lưu trữ image<br><strong>Ý tưởng:</strong> Dùng ECR để lưu trữ backend image sau khi được docker đóng gói | 02/02 | 02/02 | - |
+| Thứ ba | Thiết lập CloudWatch log management, alarm và metrics, Security Hub | 03/02 | 03/02 | - |
+| Thứ tư | Tìm hiểu về WAF để bảo vệ tầng Application | 04/02 | 04/02 | - |
+| Thứ năm | Brainstorm lại topic project và kiến trúc dự án | 05/02 | 05/02 | - |
+| Thứ sáu | Tìm hiểu Kiro, MCP và Kiro-CLI - Gợi ý kiến trúc dự án dựa trên source code | 06/02 | 06/02 | - |
+| Thứ bảy | Ôn tập kiến thức cơ bản về VPC, EC2, CloudWatch và IaC, CI/CD | 07/02 | 07/02 | - |
+| Chủ Nhật | Tìm hiểu về cơ chế Instance Refresh của ASG<br><strong>Ý tưởng:</strong> Dùng Instance Refresh để đồng bộ versioning giữa các host mỗi khi có update | 08/02 | 08/02 | - |
 
 ### Kết quả đạt được tuần 5:
 * Xác định được mô hình YOLO phù hợp cho việc giám sát thi.

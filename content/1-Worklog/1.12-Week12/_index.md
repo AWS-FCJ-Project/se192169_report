@@ -1,6 +1,6 @@
 ---
-title: "Week 12: Testing & Submission"
-date: 2025-03-19
+title: "Week 12: Wrap-up & Presentation"
+date: 2025-03-30
 weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.12. </b> "
 * Officially submit the project report and conclude the course.
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 23/03 | Ran E2E Testing on the entire system to detect late-stage bugs. |
-| Tue | 24/03 | Optimized UI and AI Chatbot response speed. |
-| Wed | 25/03 | Verified MongoDB data consistency and optimized Backend performance. |
-| Thu | 26/03 | Conducted final system permission audit and user trial surveys. |
-| Fri | 27/03 | Packaged EduTrust Demo and finalized the submission files. |
-| Sat | 28/03 | Successfully submitted the official project report. |
-| Sun | 29/03 | Final summary and cleaned up unnecessary Cloud resources. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | Re-test features | 30/03 | 30/03 | - |
+| Tuesday | Plan the demo | 31/03 | 31/03 | - |
+| Wednesday | Test the environment | 01/04 | 01/04 | - |
+| Thursday | Finalize the report | 02/04 | 02/04 | - |
+| Friday | Review teammates' reports | 03/04 | 03/04 | - |
+| Saturday | Submit the report | 04/04 | 04/04 | - |
+| Sunday | Prepare slides and presentation for 18/04 | 05/04 | 05/04 | - |
 
 ### Week 12 Achievements:
 * System operates smoothly with no critical bugs identified.

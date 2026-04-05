@@ -15,15 +15,15 @@ pre: " <b> 1.6. </b> "
 * Đảm bảo tính phản hồi (Responsive) trên nhiều thiết bị.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 09/02 | Tìm hiểu IaC: CloudFormation khái niệm và cú pháp. |
-| 3 | 10/02 | Tìm hiểu Terraform: provider, resource, state. |
-| 4 | 11/02 | So sánh CloudFormation và Terraform, lựa chọn công cụ phù hợp. |
-| 5 | 12/02 | Làm quen Docker: build image, run container. |
-| 6 | 13/02 | Tạo repository trên AWS ECR và push image. |
-| 7 | 14/02 | Kiểm thử pull image từ ECR trên môi trường khác. |
-| CN | 15/02 | Tổng kết tuần, ghi chú best practices IaC/Container. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | - Tìm hiểu thêm về AWS CloudTrail<br>- Tìm hiểu AWS X-Ray | 09/02 | 09/02 | - |
+| Thứ ba | - Terraform và cách chia module<br>- Phân tầng để quản lí tài nguyên/cấu hình | 10/02 | 10/02 | - |
+| Thứ tư | - So sánh CloudFormation và Terraform<br>- Định hướng áp dụng cho project | 11/02 | 11/02 | - |
+| Thứ năm | - Tạo branch cho phần hạ tầng dự án<br>- Dùng IaC tạo tài nguyên cơ bản (VPC, Security Group, EC2, NATGW)<br><strong>Khó khăn:</strong> chưa hiểu flow thực thi lệnh của Terraform | 12/02 | 12/02 | - |
+| Thứ sáu | - Vẽ kiến trúc AWS cơ bản để deploy backend trên EC2 | 13/02 | 13/02 | - |
+| Thứ bảy | - Cải thiện: chạy thử server backend trên EC2 bằng localhost<br>- Giám sát log server | 14/02 | 14/02 | - |
+| Chủ Nhật | - Cài đặt backend trên 2 EC2 và chia traffic bằng ALB<br>- Tổng kết trước khi nghỉ Tết<br>- Xem thêm bài đăng kiến trúc AWS trên LinkedIn để lấy ý tưởng | 15/02 | 15/02 | - |
 
 ### Kết quả đạt được tuần 6:
 * Hoàn thiện khung giao diện Dashboard chuyên nghiệp.

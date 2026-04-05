@@ -1,6 +1,6 @@
 ---
-title: "Week 11: Reporting & Finalizing"
-date: 2025-03-12
+title: "Week 11: Optimization, Pentest & Workshop"
+date: 2025-03-23
 weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
@@ -15,14 +15,15 @@ pre: " <b> 1.11. </b> "
 * Prepare presentation content for the final project review.
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 16/03 | Compiled technical evidence and drafted the project report. |
-| Tue-Wed | 17-18/03 | Refined technical content, architecture diagrams, and source code excerpts. |
-| Thu | 19/03 | Reviewed the 12-week Worklog for professional consistency. |
-| Fri | 20/03 | Packaged EduTrust source code and prepared Docker installation guides. |
-| Sat | 21/03 | Drafted presentation slides summarizing progress and results. |
-| Sun | 22/03 | Performed final check of the report file before mock submission. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | Optimize service costs | 23/03 | 23/03 | - |
+| Tuesday | Fix logic issues in the CD flow, optimize GitHub Actions execution speed | 24/03 | 24/03 | - |
+| Wednesday | Improve and revise architecture based on mentor feedback | 25/03 | 25/03 | - |
+| Thursday | Plan application pentest | 26/03 | 26/03 | - |
+| Friday | Study basic pentest process | 27/03 | 27/03 | - |
+| Saturday | Record results and fix security issues | 28/03 | 28/03 | - |
+| Sunday | Finalize the workshop section | 29/03 | 29/03 | - |
 
 ### Week 11 Achievements:
 * Completed the project report draft with comprehensive professional content.

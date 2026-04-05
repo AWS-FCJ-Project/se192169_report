@@ -1,6 +1,6 @@
 ---
-title: "Tuần 12: Thuyết trình"
-date: 2025-03-19
+title: "Tuần 12: Tổng kết & Thuyết trình"
+date: 2025-03-30
 weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.12. </b> "
 * Chính thức nộp báo cáo đồ án và kết thúc kỳ thực tập/môn học.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 23/03 | Làm slide thuyết trình cho demo cuối kỳ. |
-| 3 | 24/03 | Test lại mọi tính năng của project. |
-| 4 | 25/03 | Sửa lỗi cuối cùng và tinh chỉnh demo. |
-| 5 | 26/03 | Rehearsal thuyết trình và phân công nội dung. |
-| 6 | 27/03 | Chuẩn bị môi trường trình chiếu và dữ liệu demo. |
-| 7 | 28/03 | Thuyết trình kết thúc bootcamp FCAJ. |
-| CN | 29/03 | Tổng kết tuần và rút kinh nghiệm. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Test lại tính năng | 30/03 | 30/03 | - |
+| Thứ ba | Lên kế hoạch demo | 31/03 | 31/03 | - |
+| Thứ tư | Test môi trường | 01/04 | 01/04 | - |
+| Thứ năm | Hoàn thiện report | 02/04 | 02/04 | - |
+| Thứ sáu | Review report của các thành viên trong nhóm | 03/04 | 03/04 | - |
+| Thứ bảy | Nộp báo cáo | 04/04 | 04/04 | - |
+| Chủ Nhật | Chuẩn bị slide và phần thuyết trình ngày 18/04 | 05/04 | 05/04 | - |
 
 ### Kết quả đạt được tuần 12:
 * Hệ thống vận hành mượt mà, không còn lỗi nghiêm trọng.

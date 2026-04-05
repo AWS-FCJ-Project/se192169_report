@@ -10,22 +10,28 @@ pre: " <b> 1.1. </b> "
 {{% /notice %}}
 
 ### Mục tiêu tuần 1:
-* Thành lập nhóm đồ án và thống nhất lựa chọn đề tài EduTrust.
-* Thiết lập môi trường làm việc nhóm qua Git, Jira.
-* Nghiên cứu sơ bộ các dịch vụ Cloud cần thiết (IAM, S3, Amplify).
+* Tìm hiểu lộ trình học cloud.
+* Làm quen các bạn và các anh chị trong bootcamp.
+* Lập nhóm cho kì thực tập tại bootcamp.
+* Tạo tài khoản và setup worklog, thời gian biểu.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 05/01 | Kick-off FCAJ Bootcamp, giới thiệu lộ trình và mục tiêu. |
-| 3 | 06/01 | Lập team, phân vai trò và quy tắc phối hợp. |
-| 4 | 07/01 | Setup worklog, chuẩn hóa cách ghi chép và báo cáo. |
-| 5 | 08/01 | Tạo IAM user, group và cấu hình quyền cơ bản. |
-| 6 | 09/01 | Tạo IAM role và policy cho user/service. |
-| 7 | 10/01 | Kiểm tra lại phân quyền và best practices bảo mật. |
-| CN | 11/01 | Tổng kết tuần, ghi nhận vấn đề và kế hoạch tuần 2. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | - Kick-off bootcamp FCAJ (nội dung, lộ trình học)<br>- Làm quen với các bạn và các anh chị trong bootcamp<br>- Lập nhóm, tạo Discord upload tài liệu, trao đổi giữa các thành viên<br>- Tạo tài khoản AWS (tạo user, group, role trong AWS IAM) | 05/01 | 05/01 | https://000002.awsstudygroup.com/vi/ |
+| Thứ ba | - Xem video bài giảng về hạ tầng toàn cầu AWS<br>- Setup MFA, Budget, các kế hoạch tiết kiệm chi phí + làm lab liên quan | 06/01 | 06/01 | https://www.youtube.com/@AWSStudyGroup<br>https://aws.amazon.com/resources/create-account/<br>https://000007.awsstudygroup.com/vi/ |
+| Thứ tư | - Tìm hiểu AWS VPC:<br>&nbsp;&nbsp;+ Định nghĩa public subnet, private subnet, gán CIDR, IPv4, IPv6, route table, v.v... | 07/01 | 07/01 | https://www.youtube.com/@AWSStudyGroup |
+| Thứ năm | - Deploy EC2 trên public subnet và tạo kết nối SSH, SSM connect<br>- Lab cấu hình Site-To-Site VPN | 08/01 | 08/01 | https://www.youtube.com/@AWSStudyGroup<br>https://000003.awsstudygroup.com/vi/4-createec2server/<br>https://000003.awsstudygroup.com/vi/5-vpnsitetosite/ |
+| Thứ sáu | Setup worklog và chuẩn hóa cách ghi chép.<br>- Học về Load Balancer, NACL, Security Group | 09/01 | 09/01 | - |
+| Thứ bảy | Tìm hiểu về Cloudformation và IaC, Docker, Github (command, PR, Action, Secret,...) | 10/01 | 12/01 | - |
+| Chủ Nhật | - Xem và làm lại các bài lab (Hyrid DNS, S2S VPN)<br>- Tiếp tục tìm hiểu Docker, IaC (cấu trúc, cách triển khai) | 11/01 | 11/01 | - |
 
 ### Kết quả đạt được tuần 1:
-* Thống nhất đề tài và có kế hoạch sơ bộ cho đồ án.
-* Môi trường làm việc (Git/Jira) đã sẵn sàng.
-* Hoàn thành thiết lập bảo mật cho tài khoản AWS cá nhân.
+- Nắm lộ trình học cloud và hoàn tất hoạt động kick-off, kết nối đội nhóm.
+- Lập nhóm, thiết lập kênh trao đổi và chuẩn hóa worklog/thời gian biểu.
+- Hoàn tất tạo tài khoản AWS và cấu hình IAM cơ bản:<br>&emsp;User<br>&emsp;Group<br>&emsp;Role<br>&emsp;Policy
+- Thiết lập bảo mật và quản trị chi phí cơ bản:<br>&emsp;MFA<br>&emsp;Budget
+- Tìm hiểu nền tảng hạ tầng AWS:<br>&emsp;VPC, subnet, CIDR, IPv4/IPv6, route table<br>&emsp;NACL, Security Group, Load Balancer
+- Thực hành kết nối và lab:<br>&emsp;EC2, SSH, SSM<br>&emsp;Site-to-Site VPN, Hybrid DNS
+- Làm quen Docker, IaC và GitHub:<br>&emsp;CloudFormation/IaC<br>&emsp;Docker<br>&emsp;GitHub command, PR, Action, Secret
+- Học được: tổng quan kiến trúc hạ tầng AWS, quy trình triển khai cơ bản và cách tổ chức công việc nhóm hiệu quả.

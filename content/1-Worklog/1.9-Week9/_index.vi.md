@@ -1,6 +1,6 @@
 ---
-title: "Tuần 9: Native AWS & Front-end"
-date: 2025-02-26
+title: "Tuần 9: Amplify, WAF & Cognito"
+date: 2025-03-09
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.9. </b> "
 * Tối ưu hóa độ chính xác của AI dựa trên cơ sở tri thức bài giảng.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 02/03 | Thay Cloudflare bằng Route53 để tăng tính native AWS. |
-| 3 | 03/03 | Tìm hiểu AWS Amplify và quy trình hosting Front-end. |
-| 4 | 04/03 | Triển khai hosting Front-end trên Amplify. |
-| 5 | 05/03 | Thay JWT thủ công bằng Cognito cho auth. |
-| 6 | 06/03 | Tích hợp user pool và user group trong Cognito. |
-| 7 | 07/03 | Viết workshop hướng dẫn cấu hình và triển khai. |
-| CN | 08/03 | Tổng kết tuần, cập nhật tài liệu hướng dẫn. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Tìm hiểu Amplify và Amplify hosting front-end | 09/03 | 09/03 | - |
+| Thứ ba | Áp dụng Amplify để triển khai hosting, WAF và CDN | 10/03 | 10/03 | - |
+| Thứ tư | Hoàn thiện và tái cấu trúc thư mục Terraform | 11/03 | 11/03 | - |
+| Thứ năm | Chạy test toàn bộ dự án, sửa đổi cấu hình IaC cho phù hợp | 12/03 | 12/03 | - |
+| Thứ sáu | Thêm worklog vào report, tìm hiểu khác biệt giữa cấu hình manual JWT và Cognito | 13/03 | 13/03 | - |
+| Thứ bảy | Thay JWT bằng Cognito cho xác thực và quản lí user pool | 14/03 | 14/03 | - |
+| Chủ Nhật | Tổng kết và báo cáo tuần, phổ biến nội dung đã làm cho các thành viên | 15/03 | 15/03 | - |
 
 ### Kết quả đạt được tuần 9:
 * Chatbot đã có khả năng trả lời các câu hỏi dựa trên nội dung bài giảng.

@@ -1,5 +1,5 @@
 ---
-title: "Tuần 4: S3 & Static Web"
+title: "Tuần 4: ALB, IaC & CI/CD"
 date: 2025-01-22
 weight: 4
 chapter: false
@@ -15,15 +15,15 @@ pre: " <b> 1.4. </b> "
 * Kết nối và thực hiện các thao tác CRUD cơ bản trên MongoDB Atlas.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 26/01 | Làm quen S3, tạo bucket và cấu hình quyền truy cập. |
-| 3 | 27/01 | Thiết lập Static Website Hosting trên S3. |
-| 4 | 28/01 | Kiểm thử upload/download và phân quyền object. |
-| 5 | 29/01 | Tối ưu cấu hình public access và security. |
-| 6 | 30/01 | Brainstorm chủ đề project và tiêu chí chọn đề tài. |
-| 7 | 31/01 | Chốt hướng chủ đề và phạm vi triển khai. |
-| CN | 01/02 | Tổng kết tuần, cập nhật kế hoạch tuần 5. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Dùng ALB để chia traffic tới các host, test connection từ client | 26/01 | 26/01 | - |
+| Thứ ba | Vẽ mẫu kiến trúc để deploy một server backend và dùng IaC để build hạ tầng đã vẽ | 27/01 | 27/01 | - |
+| Thứ tư | Tìm hiểu tiếp về CI/CD, hướng triển khai IaC trong CI/CD | 28/01 | 28/01 | - |
+| Thứ năm | Chạy test hạ tầng tạo bằng IaC và deploy container bằng docker run | 29/01 | 29/01 | - |
+| Thứ sáu | Brainstorm chủ đề project và tiêu chí chọn đề tài. | 30/01 | 30/01 | - |
+| Thứ bảy | Chốt hướng chủ đề và phạm vi triển khai. | 31/01 | 31/01 | - |
+| Chủ Nhật | Tìm hiểu thêm về các dịch vụ cho dự án (EC2-ASG, AWS ECR, DynamoDB, S3,...) | 01/02 | 01/02 | - |
 
 ### Kết quả đạt được tuần 4:
 * Hệ thống Backend cơ bản đã hoạt động ổn định với FastAPI.

@@ -1,6 +1,6 @@
 ---
 title: "Tuần 8: Packer & Hạ tầng backend"
-date: 2025-02-19
+date: 2025-03-02
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.8. </b> "
 * Tối ưu hóa hiệu năng truy xuất dữ liệu từ MongoDB.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 23/02 | Tìm hiểu Packer và quy trình build AMI snapshot. |
-| 3 | 24/02 | Thực hành tạo AMI và đồng bộ OS thông qua snapshot. |
-| 4 | 25/02 | Sử dụng user data để đồng bộ version và package. |
-| 5 | 26/02 | Lên kế hoạch vẽ AWS architect cho hệ thống. |
-| 6 | 27/02 | Thiết kế CI/CD tạo hạ tầng backend và network. |
-| 7 | 28/02 | Bổ sung monitoring cho hạ tầng từ CI/CD. |
-| CN | 01/03 | Tổng kết tuần, rà soát các bước chuẩn hóa AMI. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Áp dụng Packer để build AMI snapshot vào dự án | 02/03 | 02/03 | - |
+| Thứ ba | Tìm hiểu về user data để đồng bộ version và package<br>- Triển khai endpoint cho S3, SSM, ECR,... | 03/03 | 03/03 | - |
+| Thứ tư | Thiết kế lại CI/CD để tạo hạ tầng network và backend | 04/03 | 04/03 | - |
+| Thứ năm | Thêm phần monitor bằng CloudWatch cho dự án | 05/03 | 05/03 | - |
+| Thứ sáu | Ứng dụng user data và tối ưu package để tăng tốc độ CD | 06/03 | 06/03 | - |
+| Thứ bảy | Tìm hiểu và dùng Route53 thay Cloudflare resolve DNS | 07/03 | 07/03 | - |
+| Chủ Nhật | Chuẩn hóa và sửa lỗi hạ tầng backend, lựa chọn AMI checkpoint và cấu hình instance phù hợp | 08/03 | 08/03 | - |
 
 ### Kết quả đạt được tuần 8:
 * Hệ thống có khả năng quản lý và xuất dữ liệu báo cáo chuyên nghiệp.

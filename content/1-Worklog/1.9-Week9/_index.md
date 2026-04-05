@@ -1,6 +1,6 @@
 ---
-title: "Week 9: RAG & AI Chatbot Integration"
-date: 2025-02-26
+title: "Week 9: Amplify, WAF & Cognito"
+date: 2025-03-09
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.9. </b> "
 * Optimize AI accuracy based on the project's knowledge base.
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 02/03 | Researched RAG workflow using Pydantic AI framework. |
-| Tue | 03/03 | Connected S3 data to Vector Database for efficient retrieval. |
-| Wed | 04/03 | Integrated Multi-agent AI system for specialized responses. |
-| Thu | 05/03 | Developed Next.js Chatbot interface with Markdown support. |
-| Fri | 06/03 | Optimized Prompt Engineering to enhance response quality. |
-| Sat | 07/03 | Tested Chatbot features across both Web and Mobile views. |
-| Sun | 08/03 | Evaluated Chatbot performance with the development team. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | Learn Amplify and Amplify hosting for front-end | 09/03 | 09/03 | - |
+| Tuesday | Apply Amplify to deploy hosting, WAF and CDN | 10/03 | 10/03 | - |
+| Wednesday | Finalize and restructure the Terraform folder layout | 11/03 | 11/03 | - |
+| Thursday | Run full project tests and adjust IaC configuration accordingly | 12/03 | 12/03 | - |
+| Friday | Add worklog to the report, study differences between manual JWT and Cognito configuration | 13/03 | 13/03 | - |
+| Saturday | Replace JWT with Cognito for authentication and user pool management | 14/03 | 14/03 | - |
+| Sunday | Summarize and report the week, share updates with team members | 15/03 | 15/03 | - |
 
 ### Week 9 Achievements:
 * Intelligent Chatbot successfully answers questions based on lecture content.

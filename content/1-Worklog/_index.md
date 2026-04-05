@@ -10,30 +10,30 @@ pre: " <b> 1. </b> "
 ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
 {{% /notice %}}
 
-In this section, I will detail my project development process over **12 weeks**. Each week reflects key milestones from topic research, system analysis, and backend/frontend development to AWS infrastructure deployment.
+In this section, I document the detailed progress of my project over **12 weeks**. Each week highlights key milestones from topic research, system analysis, backend/frontend development, to AWS infrastructure deployment.
 
-The weekly summaries are as follows:
+Weekly summary:
 
-**Week 1:** [Environment Setup](1.1-week1/) - Team integration, topic finalization, Git/Jira setup, and basic Cloud knowledge.
+**Week 1:** [First Steps to the Cloud with FCAJ Bootcamp](1.1-week1/) - FCAJ kick-off, team formation, worklog setup, AWS IAM (create user, group, role, policy for users and services).
 
-**Week 2:** [AWS Core Services](1.2-week2/) - Hands-on with IAM, CLI, EC2, and S3 for violation image storage.
+**Week 2:** [Networking & Connectivity](1.2-week2/) - Learn VPC, EC2, Session Manager and connection methods (VPC peering, hybrid, SSH, SSM connection, endpoint).
 
-**Week 3:** [Analysis & Design](1.3-week3/) - Database design (ERD) and functional specifications (SRS) for EduTrust.
+**Week 3:** [Backup & Cost](1.3-week3/) - Create backup plan, budget, CLI, and learn about cost and cost optimization.
 
-**Week 4:** [Backend & Auth](1.4-week4/) - Programmed JWT Auth (Cognito) and MongoDB/FastAPI connection.
+**Week 4:** [S3 & Static Web](1.4-week4/) - S3, host a static website on S3 + brainstorm project topic.
 
-**Week 5:** [AI Research](1.5-week5/) - Proposed Agentic Workflow and researched YOLO models for camera monitoring.
+**Week 5:** [Monitoring & Security](1.5-week5/) - AWS CloudTrail, CloudWatch, Grafana, WAF (monitoring, log visualization, and firewall).
 
-**Week 6:** [Dashboard Development](1.6-week6/) - Built Next.js 16 UI and optimized for Responsive display.
+**Week 6:** [IaC & Container](1.6-week6/) - Learn IaC (CloudFormation + Terraform), Docker, and AWS ECR.
 
-**Week 7:** [Infrastructure & Automation](1.8-week8/) - Automated AWS infrastructure with Load Balancer and SSL (HTTPS).
+**Week 7:** [Infrastructure & CI/CD](1.7-week7/) - Use IaC (Terraform) to build simple infrastructure for the project (ASG + ALB + Cloudflare resolve DNS) + learn CI/CD.
 
-**Week 8:** [Data & Reporting](1.9-week9/) - Exported exam results and integrated Amazon SES notifications.
+**Week 8:** [Packer & Backend Infrastructure](1.8-week8/) - Use Packer to sync OS via AMI snapshots and user data to sync versions/packages, plan architecture, use CI/CD to build backend, network, and monitoring.
 
-**Week 9:** [RAG & AI Chatbot](1.10-week10/) - Built an AI Chatbot for learning support based on lecture knowledge.
+**Week 9:** [Native AWS & Front-end](1.9-week9/) - Replace Cloudflare with Route53, learn Amplify and front-end hosting, replace manual JWT with Cognito to manage user pool/group, write workshop.
 
-**Week 10:** [Monitoring & Optimization](1.11-week11/) - Configured CloudWatch, Data Backups, and system Stress Testing.
+**Week 10:** [Architecture Finalization](1.10-week10/) - Finalize CI/CD architecture, AWS architecture for the project, optimize client-to-server flow, finalize workshop.
 
-**Week 11:** [Reporting & Finalizing](1.12-week12/) - Aggregated project results and finalized the report draft.
+**Week 11:** [Optimization & Pentest](1.11-week11/) - Optimize service costs, improve report, plan and perform application pentest.
 
-**Week 12:** [Testing & Submission](1.13-week13/) - Final optimization, full system testing, and project submission.
+**Week 12:** [Presentation](1.12-week12/) - Prepare slides, re-test all features, rehearse and present the FCAJ bootcamp finale.
