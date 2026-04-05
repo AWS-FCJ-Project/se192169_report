@@ -26,6 +26,10 @@ pre: " <b> 1.3. </b> "
 | Sunday | Test infrastructure creation with Terraform via CLI commands | 25/01 | 25/01 | - |
 
 ### Week 3 Achievements:
-* Completed the EduTrust architecture framework designed for AWS scalability.
-* Finalized system design documents and the Database Schema.
-* Confirmed the tech stack: FastAPI for Backend and MongoDB for the Database.
+- Understood S3/S3 Glacier storage options and cost optimization approaches.
+- Practiced file sharing and access control on S3.
+- Gained foundational knowledge of identity and access: Cognito, SSO (AWS Identity Center), AWS Organizations.
+- Built baseline understanding of ElastiCache (Redis) and RDS.
+- Set up monitoring and log visualization with CloudWatch Alarm and AWS Grafana.
+- Practiced private subnet infrastructure, NAT Gateway, container pulls, and Docker log monitoring via CloudWatch Agent.
+- Tested infrastructure provisioning with Terraform via CLI commands.

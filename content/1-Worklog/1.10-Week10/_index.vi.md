@@ -26,6 +26,9 @@ pre: " <b> 1.10. </b> "
 | Chủ Nhật | Tổng kết tuần và báo cáo, viết workshop | 22/03 | 22/03 | - |
 
 ### Kết quả đạt được tuần 10:
-* Hệ thống được giám sát chặt chẽ, sẵn sàng ứng phó với các sự cố kỹ thuật.
-* Quy trình sao lưu dữ liệu tự động đảm bảo an toàn cho bài thi của sinh viên.
-* Nắm rõ giới hạn chịu tải của hệ thống để có phương án mở rộng (Scaling).
+- Rà soát và chỉnh sửa kiến trúc CI/CD.
+- Hiểu kiến trúc Production/Staging.
+- Tối ưu luồng xử lí từ Client đến Server.
+- Viết và hoàn thiện workshop cho dự án.
+- Hoàn thiện dần kiến trúc AWS và CI/CD, review flow tổng thể.
+- Tổng kết và báo cáo tuần.

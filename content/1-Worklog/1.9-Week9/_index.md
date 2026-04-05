@@ -26,6 +26,10 @@ pre: " <b> 1.9. </b> "
 | Sunday | Summarize and report the week, share updates with team members | 15/03 | 15/03 | - |
 
 ### Week 9 Achievements:
-* Intelligent Chatbot successfully answers questions based on lecture content.
-* Chatbot UI is user-friendly with fast asynchronous responses.
-* RAG process is stable, ensuring accurate information sourcing for AI.
+- Learned and implemented Amplify hosting for the front-end.
+- Applied Amplify to deploy hosting, WAF, and CDN.
+- Restructured the Terraform directory.
+- Ran full project tests and adjusted IaC configuration.
+- Added worklog to the report; understood differences between manual JWT and Cognito.
+- Replaced JWT with Cognito for authentication and user pool management.
+- Summarized and reported the week; shared updates with team members.

@@ -26,6 +26,9 @@ pre: " <b> 1.7. </b> "
 | Chủ Nhật | Báo cáo, cập nhật dự án cho nhóm | 01/03 | 01/03 | - |
 
 ### Kết quả đạt được tuần 7:
-* Hạ tầng mạng AWS được thiết lập bài bản theo mô hình chuẩn của đồ án.
-* Hệ thống đạt chuẩn bảo mật HTTPS, sẵn sàng cho người dùng truy cập.
-* Tự động hóa triển khai giúp quản lý tài nguyên linh hoạt hơn.
+- Dựng hạ tầng ASG bằng IaC và cấu hình DNS/TLS cho domain.
+- Thiết lập Security Group, Health Check và scale in/out cho ASG.
+- Xây dựng CI/CD cơ bản và chạy Terraform trong pipeline.
+- Ứng dụng Packer tạo AMI, Launch Template đồng bộ package.
+- Cập nhật kiến trúc AWS, cải thiện CI và phân job rõ ràng cho CD.
+- Báo cáo tiến độ và cập nhật dự án cho nhóm.

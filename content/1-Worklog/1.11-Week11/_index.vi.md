@@ -26,6 +26,8 @@ pre: " <b> 1.11. </b> "
 | Chủ Nhật | Hoàn thiện phần workshop | 29/03 | 29/03 | - |
 
 ### Kết quả đạt được tuần 11:
-* Hoàn thiện bản thảo báo cáo đồ án với đầy đủ các nội dung chuyên môn.
-* Toàn bộ mã nguồn và tài liệu hướng dẫn được đóng gói chuyên nghiệp.
-* Sẵn sàng cho giai đoạn kiểm thử cuối cùng và nộp bài chính thức.
+- Tối ưu chi phí dịch vụ và cải thiện hiệu năng pipeline CD.
+- Sửa lỗi logic CI/CD và tinh chỉnh kiến trúc theo góp ý mentor.
+- Lập kế hoạch và nắm quy trình pentest cơ bản.
+- Ghi nhận kết quả pentest và khắc phục lỗi bảo mật.
+- Hoàn thiện phần workshop.

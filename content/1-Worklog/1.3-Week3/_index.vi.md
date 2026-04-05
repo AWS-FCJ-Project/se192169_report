@@ -26,6 +26,10 @@ pre: " <b> 1.3. </b> "
 | Chủ Nhật | Test thử tạo hạ tầng bằng Terraform qua các lệnh CLI | 25/01 | 25/01 | - |
 
 ### Kết quả đạt được tuần 3:
-* Hoàn thiện khung kiến trúc EduTrust hướng tới khả năng mở rộng trên AWS.
-* Tài liệu thiết kế hệ thống và Schema cơ sở dữ liệu đã sẵn sàng.
-* Xác định rõ công nghệ sử dụng: FastAPI cho Backend và MongoDB cho Database.
+- Nắm các phương án lưu trữ S3/S3 Glacier và tối ưu chi phí lưu trữ.
+- Thực hành chia sẻ file và phân quyền truy cập trên S3.
+- Hiểu cơ bản về xác thực và quản trị danh tính: Cognito, SSO (AWS Identity Center), AWS Organizations.
+- Nắm kiến thức nền về ElastiCache (Redis) và RDS.
+- Thiết lập giám sát và trực quan hóa log với CloudWatch Alarm và AWS Grafana.
+- Thực hành hạ tầng private subnet, NAT Gateway, pull container và giám sát Docker log bằng CloudWatch Agent.
+- Test tạo hạ tầng bằng Terraform qua CLI.

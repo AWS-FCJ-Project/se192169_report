@@ -26,6 +26,8 @@ pre: " <b> 1.4. </b> "
 | Sunday | Learn more services for the project (EC2-ASG, AWS ECR, DynamoDB, S3,...) | 01/02 | 01/02 | - |
 
 ### Week 4 Achievements:
-* Core Backend system is stable and operational with FastAPI.
-* User authentication and Admin/Teacher/Student role-based access control are complete.
-* Data is successfully stored and retrieved from the MongoDB Cloud.
+- Set up ALB for traffic distribution and validated client connectivity.
+- Drafted backend architecture and provisioned infrastructure with IaC.
+- Understood IaC integration direction in CI/CD and tested the infrastructure.
+- Deployed containers using `docker run` on the provisioned environment.
+- Finalized project topic and scope, and reviewed additional services (EC2-ASG, ECR, DynamoDB, S3,...).

@@ -26,6 +26,8 @@ pre: " <b> 1.11. </b> "
 | Sunday | Finalize the workshop section | 29/03 | 29/03 | - |
 
 ### Week 11 Achievements:
-* Completed the project report draft with comprehensive professional content.
-* All source code and instructional documentation professionally packaged.
-* Ready for the final testing phase and official submission.
+- Optimized service costs and improved CD pipeline performance.
+- Fixed CI/CD logic issues and refined architecture based on mentor feedback.
+- Planned the pentest and learned the basic pentest process.
+- Recorded results and fixed security issues.
+- Finalized the workshop section.

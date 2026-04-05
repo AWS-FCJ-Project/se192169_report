@@ -26,6 +26,10 @@ pre: " <b> 1.8. </b> "
 | Sunday | Standardize and fix backend infrastructure, choose AMI checkpoints and suitable instance configuration | 08/03 | 08/03 | - |
 
 ### Week 8 Achievements:
-* System capability for professional data management and reports.
-* Automated result notification process via Email.
-* Significant increase in data retrieval speed through Redis Caching.
+- Applied Packer to build AMI snapshots for the project.
+- Learned and used user data; deployed endpoints for S3/SSM/ECR.
+- Redesigned CI/CD to provision network and backend infrastructure.
+- Added CloudWatch monitoring for the project.
+- Optimized packages to speed up CD.
+- Switched to Route53 to replace Cloudflare DNS resolution.
+- Standardized backend infrastructure, selected AMI checkpoints, and suitable instance configuration.

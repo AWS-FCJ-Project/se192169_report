@@ -26,7 +26,10 @@ pre: " <b> 1.6. </b> "
 | Chủ Nhật | - Cài đặt backend trên 2 EC2 và chia traffic bằng ALB<br>- Tổng kết trước khi nghỉ Tết<br>- Xem thêm bài đăng kiến trúc AWS trên LinkedIn để lấy ý tưởng | 15/02 | 15/02 | - |
 
 ### Kết quả đạt được tuần 6:
-* Hoàn thiện khung giao diện Dashboard chuyên nghiệp.
-* Giao diện UI/UX mượt mà, hỗ trợ tốt chế độ sáng/tối (Dark Mode).
-* Các tính năng quản lý cơ bản đã có thể thao tác trực tiếp trên màn hình.
-* Chính sách bảo mật (IAM) được phân quyền chặt chẽ hơn.
+- Nắm thêm CloudTrail và X-Ray cho auditing/trace.
+- Hiểu cách chia module và phân tầng tài nguyên trong Terraform.
+- So sánh CloudFormation và Terraform để định hướng áp dụng.
+- Tạo branch hạ tầng và triển khai tài nguyên cơ bản bằng IaC; ghi nhận khó khăn về flow lệnh Terraform.
+- Vẽ kiến trúc AWS cơ bản cho backend trên EC2.
+- Chạy thử backend trên EC2, theo dõi log và cải thiện vận hành.
+- Cài backend trên 2 EC2, chia traffic bằng ALB; tổng kết trước kỳ nghỉ Tết và tham khảo ý tưởng kiến trúc trên LinkedIn.

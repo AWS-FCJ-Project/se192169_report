@@ -26,6 +26,10 @@ pre: " <b> 1.5. </b> "
 | Sunday | Learn about ASG Instance Refresh mechanism<br><strong>Idea:</strong> Use Instance Refresh to synchronize versioning across hosts on each update | 08/02 | 08/02 | - |
 
 ### Week 5 Achievements:
-* Identified the most suitable YOLO model for student proctoring.
-* Defined the multi-agent chatbot architecture for learning support.
-* Gained a clear understanding of frame capture and data transmission mechanisms from the browser.
+- Applied ECR to create repositories and store backend images.
+- Set up CloudWatch log management, alarms/metrics, and Security Hub.
+- Understood the role of WAF in protecting the application layer.
+- Revisited project topic and architecture to align direction.
+- Explored Kiro, MCP, and Kiro-CLI for architecture suggestions from source code.
+- Reviewed fundamentals of VPC, EC2, CloudWatch, IaC, and CI/CD.
+- Understood ASG Instance Refresh and its use for version synchronization.

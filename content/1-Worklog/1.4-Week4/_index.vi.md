@@ -26,6 +26,8 @@ pre: " <b> 1.4. </b> "
 | Chủ Nhật | Tìm hiểu thêm về các dịch vụ cho dự án (EC2-ASG, AWS ECR, DynamoDB, S3,...) | 01/02 | 01/02 | - |
 
 ### Kết quả đạt được tuần 4:
-* Hệ thống Backend cơ bản đã hoạt động ổn định với FastAPI.
-* Xác thực người dùng và phân quyền Admin/Teacher/Student đã hoàn tất.
-* Dữ liệu đã được lưu trữ và truy xuất thành công từ MongoDB Cloud.
+- Thiết lập ALB để chia traffic và kiểm thử kết nối từ client.
+- Vẽ kiến trúc backend và triển khai hạ tầng theo IaC.
+- Hiểu hướng triển khai IaC trong CI/CD và kiểm thử hạ tầng.
+- Deploy container bằng `docker run` trên hạ tầng đã tạo.
+- Chốt chủ đề, phạm vi dự án và khảo sát thêm các dịch vụ cần dùng (EC2-ASG, ECR, DynamoDB, S3,...).

@@ -26,6 +26,10 @@ pre: " <b> 1.9. </b> "
 | Chủ Nhật | Tổng kết và báo cáo tuần, phổ biến nội dung đã làm cho các thành viên | 15/03 | 15/03 | - |
 
 ### Kết quả đạt được tuần 9:
-* Chatbot đã có khả năng trả lời các câu hỏi dựa trên nội dung bài giảng.
-* Giao diện Chatbot thân thiện, tốc độ phản hồi nhanh nhờ xử lý bất đồng bộ.
-* Quy trình RAG hoạt động ổn định, đảm bảo thông tin chính xác cho AI.
+- Nắm và triển khai Amplify hosting cho front-end.
+- Áp dụng Amplify để triển khai hosting, WAF và CDN.
+- Tái cấu trúc thư mục Terraform.
+- Chạy test toàn bộ dự án và điều chỉnh cấu hình IaC.
+- Bổ sung worklog vào report; hiểu khác biệt giữa JWT manual và Cognito.
+- Thay JWT bằng Cognito để xác thực và quản lí user pool.
+- Tổng kết, báo cáo và chia sẻ nội dung cho các thành viên.
