@@ -26,8 +26,10 @@ pre: " <b> 1.6. </b> "
 | Sunday | - Install backend on 2 EC2 instances and distribute traffic with ALB<br>- Summarize before Tet break<br>- Read AWS architecture posts on LinkedIn for ideas | 15/02 | 15/02 | - |
 
 ### Week 6 Achievements:
-* Completed a professional Dashboard interface framework.
-* Smooth UI/UX with support for both Light and Dark modes.
-* Core management features are now fully functional on the frontend.
-* System displays correctly across all popular screen sizes.
-* Security policies (IAM) are more tightly permissioned.
+- Learned more about CloudTrail and X-Ray for auditing/trace.
+- Understood Terraform module decomposition and layering of resources.
+- Compared CloudFormation and Terraform to decide project usage.
+- Created the infrastructure branch and provisioned basic resources with IaC; noted difficulty with Terraform execution flow.
+- Drew a basic AWS architecture for backend deployment on EC2.
+- Ran backend on EC2 and monitored server logs.
+- Installed backend on two EC2 instances and distributed traffic via ALB; summarized before Tet break and gathered ideas from LinkedIn.

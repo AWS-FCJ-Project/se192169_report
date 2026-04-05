@@ -26,7 +26,7 @@ pre: " <b> 1.12. </b> "
 | Sunday | Prepare slides and presentation for 18/04 | 05/04 | 05/04 | - |
 
 ### Week 12 Achievements:
-* System operates smoothly with no critical bugs identified.
-* Completed the project with a fully featured EduTrust product.
-* Submitted the report on time, meeting all academic requirements.
-* Efficiently managed the AWS account and optimized cloud costs.
+- Re-tested features and validated the deployment environment.
+- Planned the demo and finalized the report.
+- Reviewed teammates' reports and submitted the final report.
+- Prepared slides and the presentation for 18/04.

@@ -26,7 +26,7 @@ pre: " <b> 1.12. </b> "
 | Chủ Nhật | Chuẩn bị slide và phần thuyết trình ngày 18/04 | 05/04 | 05/04 | - |
 
 ### Kết quả đạt được tuần 12:
-* Hệ thống vận hành mượt mà, không còn lỗi nghiêm trọng.
-* Hoàn thành đồ án với sản phẩm EduTrust đầy đủ tính năng.
-* Nộp báo cáo đúng hạn và đạt mọi yêu cầu chuyên môn đề ra.
-* Tài khoản AWS được quản lý tối ưu về chi phí.
+- Test lại tính năng và kiểm tra môi trường triển khai.
+- Lên kế hoạch demo và hoàn thiện báo cáo.
+- Review report của các thành viên và nộp báo cáo.
+- Chuẩn bị slide và phần thuyết trình cho ngày 18/04.

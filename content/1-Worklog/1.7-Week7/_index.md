@@ -26,6 +26,9 @@ pre: " <b> 1.7. </b> "
 | Sunday | Report and update the project for the team | 01/03 | 01/03 | - |
 
 ### Week 7 Achievements:
-* AWS network infrastructure set up according to project best practices.
-* System achieved HTTPS security standards, ready for user access.
-* Automated deployment process enables flexible resource management.
+- Built ASG infrastructure with IaC and configured DNS/TLS for the domain.
+- Set up Security Group, Health Check, and scale in/out for ASG.
+- Built a basic CI/CD pipeline and ran Terraform in the pipeline.
+- Used Packer to create AMIs and Launch Templates for package version sync.
+- Updated AWS architecture, improved CI, and clarified CD job separation.
+- Reported progress and updated the project with the team.

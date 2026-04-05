@@ -26,6 +26,10 @@ pre: " <b> 1.5. </b> "
 | Chủ Nhật | Tìm hiểu về cơ chế Instance Refresh của ASG<br><strong>Ý tưởng:</strong> Dùng Instance Refresh để đồng bộ versioning giữa các host mỗi khi có update | 08/02 | 08/02 | - |
 
 ### Kết quả đạt được tuần 5:
-* Xác định được mô hình YOLO phù hợp cho việc giám sát thi.
-* Kiến trúc Chatbot đa tác vụ (Multi-agent) đã được định hình rõ nét.
-* Hiểu rõ cơ chế capture frame và gửi dữ liệu ảnh từ trình duyệt.
+- Ứng dụng ECR để tạo repo và lưu trữ image cho backend.
+- Thiết lập CloudWatch log management, alarm/metrics và Security Hub.
+- Nắm vai trò của WAF trong bảo vệ tầng ứng dụng.
+- Brainstorm lại topic và kiến trúc dự án theo hướng phù hợp.
+- Tìm hiểu Kiro, MCP, Kiro-CLI để gợi ý kiến trúc từ source code.
+- Ôn tập VPC, EC2, CloudWatch, IaC, CI/CD.
+- Hiểu cơ chế Instance Refresh của ASG và định hướng áp dụng đồng bộ versioning.

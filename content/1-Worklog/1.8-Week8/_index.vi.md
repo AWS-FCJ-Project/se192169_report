@@ -26,6 +26,10 @@ pre: " <b> 1.8. </b> "
 | Chủ Nhật | Chuẩn hóa và sửa lỗi hạ tầng backend, lựa chọn AMI checkpoint và cấu hình instance phù hợp | 08/03 | 08/03 | - |
 
 ### Kết quả đạt được tuần 8:
-* Hệ thống có khả năng quản lý và xuất dữ liệu báo cáo chuyên nghiệp.
-* Tự động hóa quy trình thông báo kết quả thi qua Email.
-* Tốc độ truy xuất dữ liệu tăng đáng kể nhờ tích hợp Redis Caching.
+- Áp dụng Packer build AMI snapshot cho dự án.
+- Nắm và áp dụng user data, triển khai endpoint cho S3/SSM/ECR.
+- Thiết kế lại CI/CD để tạo hạ tầng network và backend.
+- Bổ sung giám sát CloudWatch cho dự án.
+- Tối ưu package để tăng tốc độ CD.
+- Chuyển sang Route53 thay Cloudflare resolve DNS.
+- Chuẩn hóa hạ tầng backend, chọn AMI checkpoint và cấu hình instance phù hợp.

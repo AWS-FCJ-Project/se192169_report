@@ -26,6 +26,9 @@ pre: " <b> 1.10. </b> "
 | Sunday | Weekly summary and report, write workshop | 22/03 | 22/03 | - |
 
 ### Week 10 Achievements:
-* System is closely monitored, ready for incident response.
-* Automated data backup processes ensure safety for student exam data.
-* Clearly identified system load limits to inform future scaling strategies.
+- Reviewed and adjusted the CI/CD architecture.
+- Understood Production/Staging architecture.
+- Optimized the flow from Client to Server.
+- Wrote and completed the project workshop.
+- Gradually refined AWS architecture and CI/CD, and reviewed overall flows.
+- Completed weekly summary and reporting.

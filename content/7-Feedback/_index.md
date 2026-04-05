@@ -10,38 +10,30 @@ pre: " <b> 6. </b> "
 ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
 {{% /notice %}}
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
-
 ### Overall Evaluation
 
 **1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment is friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be helpful to add more social gatherings or team-bonding activities so people can get to know each other better.
 
 **2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+The admin team is very supportive, proactively checking in and assisting students throughout the bootcamp. This makes it easier to resolve issues during the learning and working process.
 
 **3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+The work I did in the project covered areas that were new to me. As a result, I learned new technologies and gained a broader view of the field, especially around security.
 
 **4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+During the internship, I developed skills such as using project management tools, teamwork, and professional communication. Mentors also shared practical experience, guided me on improving my profile, and offered useful advice.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**5. Culture & Team Spirit**  
+The bootcamp culture is very positive: people respect each other, work seriously while staying energetic and approachable. The office is professional but still creates a comfortable space for interns, without overly strict rules.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
-
----
+**6. Policies / Benefits for Interns**  
+The bootcamp regularly holds tech talks and workshops that share industry experience, knowledge, and new tools or agents developed by AWS. In addition to in-depth technical workshops, there are cloudmastery sessions that share materials and knowledge by domain such as AI, DevOps, Security, and more.
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
-
----
+- **Most satisfying:** A strong learning environment, close mentor support, and well-prepared, up-to-date materials.
+- **Areas to improve:** Add weekly knowledge review sessions to keep progress on track, avoid overconfidence during self-study, and reduce the impact on other members; also introduce weekly evaluation criteria so everyone can self-adjust.
+- **Would I recommend it?** Yes. It’s a professional yet approachable environment with rich, practical materials that help you learn more than expected and expand your network.
 
 ### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+As a learner, I hope the program continues so I can spend more time deepening cloud knowledge and security measures, especially multi-layer protection models (network, application, data). If the program runs longer with an advanced track, I believe it would help me build a stronger foundation, stay updated with new technologies, and develop a more structured, real-world implementation mindset.
