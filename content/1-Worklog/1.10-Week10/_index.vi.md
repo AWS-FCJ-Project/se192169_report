@@ -1,6 +1,6 @@
 ---
-title: "Tuần 10: Hoàn thiện kiến trúc"
-date: 2025-03-05
+title: "Tuần 10: CI/CD, Kiến trúc & Workshop"
+date: 2025-03-16
 weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.10. </b> "
 * Kiểm tra khả năng chịu tải (Stress Test) của hệ thống EduTrust.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 09/03 | Hoàn thiện kiến trúc CI/CD tổng thể cho dự án. |
-| 3 | 10/03 | Hoàn thiện AWS architect của dự án. |
-| 4 | 11/03 | Tối ưu luồng xử lí từ client đến server. |
-| 5 | 12/03 | Rà soát pipeline deploy và rollback. |
-| 6 | 13/03 | Hoàn thiện nội dung workshop. |
-| 7 | 14/03 | Review tài liệu và sơ đồ kiến trúc. |
-| CN | 15/03 | Tổng kết tuần, chuẩn bị tối ưu chi phí. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Xem lại và chỉnh sửa kiến trúc CI/CD | 16/03 | 16/03 | - |
+| Thứ ba | Tìm hiểu kiến trúc Production/Staging | 17/03 | 17/03 | - |
+| Thứ tư | Tối ưu luồng từ Client đến Server | 18/03 | 18/03 | - |
+| Thứ năm | Viết workshop cho dự án | 19/03 | 19/03 | - |
+| Thứ sáu | Hoàn thiện dần và chỉnh sửa kiến trúc AWS, CI/CD | 20/03 | 20/03 | - |
+| Thứ bảy | Review flow chạy của kiến trúc từ Client - Server và flow CI/CD | 21/03 | 21/03 | - |
+| Chủ Nhật | Tổng kết tuần và báo cáo, viết workshop | 22/03 | 22/03 | - |
 
 ### Kết quả đạt được tuần 10:
 * Hệ thống được giám sát chặt chẽ, sẵn sàng ứng phó với các sự cố kỹ thuật.

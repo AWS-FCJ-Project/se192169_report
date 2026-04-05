@@ -1,5 +1,5 @@
 ---
-title: "Week 5: AI & Camera Research"
+title: "Week 5: ECR, Monitoring & WAF"
 date: 2025-01-29
 weight: 5
 chapter: false
@@ -15,15 +15,15 @@ pre: " <b> 1.5. </b> "
 * Perform basic object detection tests (phones, multiple faces).
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 02/02 | Explored YOLOv8/v10 models for fraud detection use cases. |
-| Tue | 03/02 | Set up Agentic Workflow for the chatbot using Pydantic AI. |
-| Wed | 04/02 | Tested detection of multiple faces within a single camera frame. |
-| Thu | 05/02 | Designed logic flow: Violation Detected -> Evidence Capture -> S3 Storage. |
-| Fri | 06/02 | Researched video frame streaming from Client to FastAPI backend. |
-| Sat | 07/02 | Optimized prompts for AI Agents to categorize student inquiries. |
-| Sun | 08/02 | Evaluated system latency during real-time AI processing. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | Apply ECR to create repositories and store images<br><strong>Idea:</strong> Use ECR to store backend images after Docker packaging | 02/02 | 02/02 | - |
+| Tuesday | Set up CloudWatch log management, alarms and metrics, Security Hub | 03/02 | 03/02 | - |
+| Wednesday | Learn about WAF to protect the application layer | 04/02 | 04/02 | - |
+| Thursday | Brainstorm project topic and architecture again | 05/02 | 05/02 | - |
+| Friday | Learn Kiro, MCP, and Kiro-CLI - architecture suggestions based on source code | 06/02 | 06/02 | - |
+| Saturday | Review fundamentals of VPC, EC2, CloudWatch, IaC, CI/CD | 07/02 | 07/02 | - |
+| Sunday | Learn about ASG Instance Refresh mechanism<br><strong>Idea:</strong> Use Instance Refresh to synchronize versioning across hosts on each update | 08/02 | 08/02 | - |
 
 ### Week 5 Achievements:
 * Identified the most suitable YOLO model for student proctoring.

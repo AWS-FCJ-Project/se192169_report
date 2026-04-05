@@ -1,6 +1,6 @@
 ---
-title: "Week 10: Monitoring & Optimization"
-date: 2025-03-05
+title: "Week 10: CI/CD, Architecture & Workshop"
+date: 2025-03-16
 weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.10. </b> "
 * Perform Stress Testing for the EduTrust system.
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 09/03 | Configured AWS CloudWatch to monitor logs from FastAPI and Next.js. |
-| Tue | 10/03 | Debugged and optimized response times for AI Agents. |
-| Wed | 11/03 | Set up automated Backup processes for MongoDB Atlas. |
-| Thu | 12/03 | Verified S3 Bucket security, ensuring access only via Presigned URLs. |
-| Fri | 13/03 | Conducted Stress Tests simulating multiple concurrent users during an exam. |
-| Sat | 14/03 | Finalized system operation and administration manuals. |
-| Sun | 15/03 | Verified Docker container stability in the AWS production environment. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | Review and adjust the CI/CD architecture | 16/03 | 16/03 | - |
+| Tuesday | Study Production/Staging architecture | 17/03 | 17/03 | - |
+| Wednesday | Optimize the flow from Client to Server | 18/03 | 18/03 | - |
+| Thursday | Write the workshop for the project | 19/03 | 19/03 | - |
+| Friday | Gradually complete and refine AWS architecture and CI/CD | 20/03 | 20/03 | - |
+| Saturday | Review runtime flow from Client to Server and CI/CD flow | 21/03 | 21/03 | - |
+| Sunday | Weekly summary and report, write workshop | 22/03 | 22/03 | - |
 
 ### Week 10 Achievements:
 * System is closely monitored, ready for incident response.

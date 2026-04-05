@@ -1,6 +1,6 @@
 ---
 title: "Tuần 7: Hạ tầng & CI/CD"
-date: 2025-02-12
+date: 2025-02-23
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -15,15 +15,15 @@ pre: " <b> 1.7. </b> "
 * Cấu hình cân bằng tải (Load Balancer) và bảo mật SSL/HTTPS.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 16/02 | Dùng Terraform dựng hạ tầng ASG + ALB cơ bản. |
-| 3 | 17/02 | Cấu hình Cloudflare resolve DNS cho domain. |
-| 4 | 18/02 | Hoàn thiện security group và health check. |
-| 5 | 19/02 | Kiểm thử scale in/out cho ASG. |
-| 6 | 20/02 | Tìm hiểu pipeline CI/CD cơ bản và nhu cầu dự án. |
-| 7 | 21/02 | Phác thảo luồng CI/CD cho hạ tầng. |
-| CN | 22/02 | Tổng kết tuần và cập nhật tài liệu hạ tầng. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | IaC dựng hạ tầng ASG, cấu hình Cloudflare resolve DNS và TLS cert cho domain | 23/02 | 23/02 | - |
+| Thứ ba | Cấu hình Security Group, Health Check, scale in/out cho ASG | 24/02 | 24/02 | - |
+| Thứ tư | Xây dựng CI/CD cơ bản cho dự án | 25/02 | 25/02 | - |
+| Thứ năm | Tìm hiểu Packer để lưu snapshot AMI tạo Launch Template cho ASG (đồng bộ phiên bản gói cài đặt) | 26/02 | 26/02 | - |
+| Thứ sáu | Chạy thử hạ tầng Terraform trong CI/CD, sửa lỗi khi commit và chạy pipeline | 27/02 | 27/02 | - |
+| Thứ bảy | Cập nhật kiến trúc AWS của dự án, cải thiện CI, phân job rõ ràng cho CD | 28/02 | 28/02 | - |
+| Chủ Nhật | Báo cáo, cập nhật dự án cho nhóm | 01/03 | 01/03 | - |
 
 ### Kết quả đạt được tuần 7:
 * Hạ tầng mạng AWS được thiết lập bài bản theo mô hình chuẩn của đồ án.

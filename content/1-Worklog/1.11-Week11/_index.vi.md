@@ -1,6 +1,6 @@
 ---
-title: "Tuần 11: Tối ưu & Pentest"
-date: 2025-03-12
+title: "Tuần 11: Tối ưu, Pentest & Workshop"
+date: 2025-03-23
 weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
@@ -15,14 +15,15 @@ pre: " <b> 1.11. </b> "
 * Chuẩn bị nội dung thuyết trình kết quả đồ án trước nhóm.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Ngày | Công việc |
-| --- | --- | --- |
-| 2 | 16/03 | Tối ưu chi phí các dịch vụ đang sử dụng. |
-| 3-4 | 17-18/03 | Rà soát cấu hình, cắt giảm tài nguyên dư thừa. |
-| 5 | 19/03 | Cải thiện report theo nhận xét. |
-| 6 | 20/03 | Lên kế hoạch pentest ứng dụng. |
-| 7 | 21/03 | Thực hiện pentest và ghi nhận kết quả. |
-| CN | 22/03 | Tổng kết tuần, cập nhật checklist bảo mật. |
+|  | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| Thứ hai | Tối ưu chi phí các dịch vụ | 23/03 | 23/03 | - |
+| Thứ ba | Sửa các lỗi logic trong flow CD, tối ưu tốc độ chạy GitHub Action | 24/03 | 24/03 | - |
+| Thứ tư | Cải thiện, sửa đổi kiến trúc sau khi được các anh chị mentor góp ý | 25/03 | 25/03 | - |
+| Thứ năm | Lên kế hoạch pentest ứng dụng | 26/03 | 26/03 | - |
+| Thứ sáu | Tìm hiểu quy trình pentest cơ bản | 27/03 | 27/03 | - |
+| Thứ bảy | Ghi nhận kết quả và sửa các lỗi bảo mật | 28/03 | 28/03 | - |
+| Chủ Nhật | Hoàn thiện phần workshop | 29/03 | 29/03 | - |
 
 ### Kết quả đạt được tuần 11:
 * Hoàn thiện bản thảo báo cáo đồ án với đầy đủ các nội dung chuyên môn.

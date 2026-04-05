@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Dashboard Development"
+title: "Week 6: IaC & Container"
 date: 2025-02-05
 weight: 6
 chapter: false
@@ -15,15 +15,15 @@ pre: " <b> 1.6. </b> "
 * Ensure Responsive compatibility across various devices.
 
 ### Tasks to be carried out this week:
-| Day | Date | Task |
-| --- | --- | --- |
-| Mon | 09/02 | Initialized Next.js 16 project with App Router and Lucide Icons. |
-| Tue | 10/02 | Designed common Layout components (Sidebar, Navbar, Breadcrumbs). |
-| Wed | 11/02 | Built class management and student list dashboard views. |
-| Thu | 12/02 | Developed the exam creation form with multiple-choice question features. |
-| Fri | 13/02 | Integrated Tailwind CSS v4 for core UI components (Buttons, Cards, Modals). |
-| Sat | 14/02 | Verified responsive layouts on Mobile and Tablet devices. |
-| Sun | 15/02 | Optimized page rendering performance using Server Components. |
+|  | Task | Start Date | End Date | References |
+| --- | --- | --- | --- | --- |
+| Monday | - Learn more about AWS CloudTrail<br>- Learn AWS X-Ray | 09/02 | 09/02 | - |
+| Tuesday | - Terraform and module decomposition<br>- Layering to manage resources/configuration | 10/02 | 10/02 | - |
+| Wednesday | - Compare CloudFormation and Terraform<br>- Define direction for project adoption | 11/02 | 11/02 | - |
+| Thursday | - Create a branch for the project infrastructure<br>- Use IaC to create basic resources (VPC, Security Group, EC2, NATGW)<br><strong>Difficulty:</strong> not yet clear on Terraform command execution flow | 12/02 | 12/02 | - |
+| Friday | - Draw a basic AWS architecture to deploy backend on EC2 | 13/02 | 13/02 | - |
+| Saturday | - Improve: run backend server on EC2 via localhost<br>- Monitor server logs | 14/02 | 14/02 | - |
+| Sunday | - Install backend on 2 EC2 instances and distribute traffic with ALB<br>- Summarize before Tet break<br>- Read AWS architecture posts on LinkedIn for ideas | 15/02 | 15/02 | - |
 
 ### Week 6 Achievements:
 * Completed a professional Dashboard interface framework.
