@@ -24,7 +24,7 @@ chapter: false
 
 &emsp; **Internship Position:** FCAJ Cloud Intern
 
-&emsp; **Internship Duration:** From 05/01/2026 to 18/04/2026
+&emsp; **Internship Duration:** From 05/01/2026 to 05/04/2026
 
 ![Your profile picture](/images/avatar.jpg)
 
