@@ -31,5 +31,4 @@ The workflow is organized into:
 4. [Config & Secrets](4.4-config-secrets/)
 5. [CI/CD Guide](4.5-cicd-pipeline/)
 6. [Frontend Deployment & Security](4.6-frontend-deployment-security/)
-7. [CloudWatch Monitoring & SNS Alerts](4.7-observability-validation/)
-8. [Cleanup](4.8-cleanup/)
+7. [Cleanup](4.8-cleanup/)

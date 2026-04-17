@@ -38,5 +38,4 @@ Quy trình được chia thành các phần chính:
 4. [Cấu hình & Secrets](4.4-config-secrets/)
 5. [Hướng dẫn chạy CI/CD](4.5-cicd-pipeline/)
 6. [Frontend Deployment & Security](4.6-frontend-deployment-security/)
-7. [Observability & Validation](4.7-observability-validation/)
-8. [Dọn dẹp](4.8-cleanup/)
+7. [Dọn dẹp](4.8-cleanup/)
